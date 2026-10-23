@@ -82,7 +82,7 @@ $$\text{Flop Ratio} = \frac{\text{Total D-Flip Flops}}{\text{Total Gate Count}}$
 * `my_base.sdc` - Synopsys Design Constraints file
 
 ### Key Screenshots
-#### OpenSTA Post-CTS Timing Slack Report
+#### OpenSTA Post-CTS Tree Layout View
 ![CTS Slack Report](Day4_CTS/screenshots/picorv32a.cts.def.png)
 
 ---
@@ -102,7 +102,7 @@ $$\text{Flop Ratio} = \frac{\text{Total D-Flip Flops}}{\text{Total Gate Count}}$
 
 ### Key Screenshots
 #### Magic View of Routed Design (Metal Interconnections)
-![Routed Layout View](Day5_Routing/screenshots/picorv32a.def.png)
+![Routed Layout View](Day5_Routing/screenshot/picorv32a.def.png)
 
 
 ---
